@@ -22,3 +22,15 @@ int main()
     printf("Frequency of %c is %d\n",ch,count);
     return 0;
 }
+
+/*
+Enter a string :
+Deepak Gupta is a Coder
+Entered string is: Deepak Gupta is a Coder
+
+Enter the character to find frequency to it: 
+e
+Frequency of e is 4
+*/
+
+// it is coming 4 times but actually it is 3 times so why ?
