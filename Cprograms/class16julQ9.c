@@ -1,5 +1,6 @@
 /*
 //9. Program to store information of a student using structure.
+
 #include<stdio.h>
 #include<string.h>
 
@@ -14,7 +15,7 @@ int main()
   struct student s1;
   struct student s2;
   struct student s3;
-  
+
   printf("Enter the information about s1:\n");
 
   fgets(s1.name,25,stdin);
